@@ -1,7 +1,6 @@
 # Computer Vision
-TUM Master Course "Computer Vision" Assignment Solutions
+TUM Master Course ["Computer Vision"](https://www.ldv.ei.tum.de/lehre/computer-vision/) Assignment Solutions
 
-Course Website: https://www.ldv.ei.tum.de/lehre/computer-vision/
 
 This Repository contains several Computer Vision Basics coded in Matlab.
 
